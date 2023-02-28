@@ -19,4 +19,7 @@
 экран выбранную запись, выводить на экран весь список записок, добавлять
 записку, редактировать ее и удалять.
 
-*\[ссылка на GitHub]\(.../ya.ru/\)*
+*[ссылка на GitHub](https://github.com/SoLoVeYOo/IntermediateAttestationPython)*
+
+Для корректной работы приложения, необходимо установить PyPi package **keyboard 0.13.5**  
+*[ссылка на PyPi](https://pypi.org/project/keyboard/)*
